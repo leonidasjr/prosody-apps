@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+
+  author: Silva Jr. Leonidas.
+  orcid: "https://orcid.org/my-orcid?orcid=0000-0002-3728-9851"
+  totle: "BeatMaker"
+  version: 1.1.0
+  doi: 10.5281/zenodo.17754203
+  date-released: 2025-11-28
+  url: "https://github.com/leonidasjr/prosody-apps/new/main/beat-maker"
