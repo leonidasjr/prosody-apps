@@ -195,7 +195,7 @@ https://github.com/leonidasjr/SyllCraft
 ### BibTeX
 ```bibtex
 @software{silvajunior2024syllcraft,
-  author    = {Silva Júnior, Leônidas José da},
+  author    = {Silva Jr., Leônidas},
   title     = {{SyllCraft}: Automatic English Syllable Segmentation Tool},
   year      = {2024},
   version   = {1.0.0},
