@@ -219,4 +219,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Leônidas José da Silva Júnior**  
 Professor — Universidade Estadual da Paraíba (UEPB) / Universidade Federal de Pernambuco (UFPE)  
 Researcher in Phonetics, Phonology, and Language Teaching Technology  
-📧 leonidas.junior@uepb.edu.br
+📧 leonidas.silvajr@servidor.uepb.edu.br
