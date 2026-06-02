@@ -1,0 +1,110 @@
+cff-version: 1.2.0
+message: >-
+  If you use SyllCraft in your research or teaching, please cite it
+  using the metadata below.
+type: software
+title: "SyllCraft: Automatic English Syllable Segmentation Tool"
+abstract: >-
+  SyllCraft is a free, open-source Python tool that automatically segments
+  English words into syllables using three complementary criteria:
+  orthographic (Hunspell/American English hyphenation), phonetic V-V /
+  ambisyllabic (Barbosa, 2006; Ladefoged & Johnson, 2011), and phonological
+  SSP-MOP (Selkirk, 1982, 1984; Clements, 1990). It was designed to support
+  explicit phonetic-phonological instruction in English as a Foreign Language
+  (EFL) teacher education programs, particularly for Brazilian learners.
+authors:
+  - family-names: "Silva Júnior"
+    given-names: "Leônidas José da"
+    orcid: ""
+    affiliation: >-
+      Universidade Estadual da Paraíba (UEPB) /
+      Universidade Federal de Pernambuco (UFPE)
+    email: "leonidas.junior@uepb.edu.br"
+version: "1.0.0"
+date-released: "2024-01-01"
+license: MIT
+repository-code: "https://github.com/leonidasjr/SyllCraft"
+url: "https://github.com/leonidasjr/SyllCraft"
+keywords:
+  - syllable segmentation
+  - English phonetics
+  - phonology
+  - EFL
+  - language teaching
+  - Brazilian Portuguese
+  - IPA transcription
+  - natural language processing
+  - educational technology
+  - L2 pronunciation
+references:
+  - type: article
+    authors:
+      - family-names: Morton
+        given-names: John
+      - family-names: Marcus
+        given-names: Stephanie
+      - family-names: Frankish
+        given-names: Clive
+    title: "Perceptual centers (P-centers)"
+    journal: "Psychological Review"
+    volume: 83
+    issue: 5
+    year: 1976
+    pages: "405–408"
+    doi: "10.1037/0033-295X.83.5.405"
+  - type: book
+    authors:
+      - family-names: Barbosa
+        given-names: "Plínio A."
+    title: "Incursões em torno do ritmo da fala"
+    year: 2006
+    publisher: "Pontes Editores"
+    location: "Campinas, Brazil"
+  - type: book-chapter
+    authors:
+      - family-names: Selkirk
+        given-names: Elisabeth
+    title: "The syllable"
+    collection-title: "The structure of phonological representation (Part 1)"
+    year: 1982
+    editors:
+      - family-names: Houst
+        given-names: H.
+      - family-names: Smith
+        given-names: "V. D."
+    publisher: "De Gruyter"
+    location: "Berlin/Boston"
+    doi: "10.1515/9783112328088"
+  - type: book
+    authors:
+      - family-names: Selkirk
+        given-names: Elisabeth
+    title: "Phonology and Syntax: The relation between sound and structure"
+    year: 1984
+    publisher: "MIT Press"
+    location: "Cambridge, MA"
+  - type: book-chapter
+    authors:
+      - family-names: Clements
+        given-names: "George N."
+    title: "The role of the sonority cycle in core syllabification"
+    collection-title: "Papers in Laboratory Phonology"
+    year: 1990
+    editors:
+      - family-names: Kingston
+        given-names: John
+      - family-names: Beckman
+        given-names: "Mary E."
+    publisher: "Cambridge University Press"
+    location: "Cambridge"
+    pages: "283–333"
+  - type: book
+    authors:
+      - family-names: Ladefoged
+        given-names: Peter
+      - family-names: Johnson
+        given-names: Keith
+    title: "A course in phonetics"
+    year: 2011
+    publisher: "Wadsworth Cengage Learning"
+    location: "Boston"
