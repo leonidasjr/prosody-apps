@@ -157,8 +157,6 @@ BeatMaker is distributed under the [MIT License](LICENSE).
 
 ---
 
-## For a demo trailer, click here: [![Demo Trailer](https://img.shields.io/badge/🎵%20Demo%20Trailer-Click%20here-185FA5?style=flat-square)](https://leonidasjr.github.io/prosody-apps/beat-maker/BeatMaker_demo.html)
-
 ## Contact
 
 **Leônidas José da Silva Jr.**  
