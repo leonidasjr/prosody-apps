@@ -132,7 +132,7 @@ BeatMaker supports speech comparison across three domains:
 If you use BeatMaker in your research or teaching, please cite:
 
 ```
-SILVA JR., Leônidas. (2023–2025). BeatMaker (version 1.02).
+SILVA JR., Leônidas. (2023–2026). BeatMaker (version 1.02).
 [Computer program for Praat]. Available at:
 https://github.com/leonidasjr/VowelCode
 ```
@@ -153,7 +153,7 @@ See also [CITATION.cff](CITATION.cff) for machine-readable citation metadata.
 ## License
 
 BeatMaker is distributed under the [MIT License](LICENSE).  
-© 2023–2025 Leônidas José da Silva Jr. — Universidade Estadual da Paraíba (UEPB), Brazil.
+© 2023–2026 Leônidas José da Silva Jr. — Universidade Estadual da Paraíba (UEPB), Brazil.
 
 ---
 
@@ -161,5 +161,5 @@ BeatMaker is distributed under the [MIT License](LICENSE).
 
 **Leônidas José da Silva Jr.**  
 Universidade Estadual da Paraíba (UEPB) | Universidade Federal de Pernambuco (UFPE)  
-📧 leonidas.junior@uepb.edu.br  
+📧 leonidas.silvajr@servidor.uepb.edu.br  
 🔗 ORCID: [0000-0002-3728-9851](https://orcid.org/0000-0002-3728-9851)
