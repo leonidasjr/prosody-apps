@@ -157,6 +157,8 @@ BeatMaker is distributed under the [MIT License](LICENSE).
 
 ---
 
+## For a demo trailer, click here: [![Demo](https://img.shields.io/badge/Interactive%20Demo-▶%20Open-185FA5?style=flat)](https://leonidasjr.github.io/VowelCode/BeatMaker_demo.html)
+
 ## Contact
 
 **Leônidas José da Silva Jr.**  
