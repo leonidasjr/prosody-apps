@@ -8,7 +8,7 @@
 **BeatMaker** is a multilingual prosody-based script for [Praat](https://www.fon.hum.uva.nl/praat/) that extracts and visualizes the fundamental frequency (F0) contours and rhythmic beat signals of two speech recordings for direct visual and auditory comparison. It is designed for researchers, language teachers, and practitioners working with foreign language (L2) pronunciation, forensic phonetics, or clinical voice assessment.
 
 > **Quick citation:**  
-> SILVA JR., Leônidas. (2023–2025). *BeatMaker* (version 1.02). [Computer program for Praat]. Available at: <https://github.com/leonidasjr/VowelCode>
+> SILVA JR., Leônidas. (2023–2026). *BeatMaker* (version 1.02). [Computer program for Praat]. Available at: <https://github.com/leonidasjr/prosody-apps>
 
 ---
 
